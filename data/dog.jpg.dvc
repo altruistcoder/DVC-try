@@ -1,0 +1,5 @@
+outs:
+- md5: 01ef5eb2a251210050bc28ee7b62fb86
+  size: 18666
+  path: dog.jpg
+  isexec: true
